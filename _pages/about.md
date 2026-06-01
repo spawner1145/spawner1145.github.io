@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a sophomore undergraduate student in the **Department of Mathematics at Wuhan University of Technology**. My research interests include **Generative AI**, **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training and inference systems. I am particularly interested in translating cutting-edge research ideas into practical open-source systems and community-facing tools.
 
-I have built both research and engineering experience across generative modeling, interactive AI systems, and computer vision. My broader interests also include **image classification**, **object detection**, and multimodal intelligent systems. I am highly familiar with the **PyTorch** ecosystem and the **Hugging Face Transformers** stack.
+I have built both research and engineering experience across generative modeling, interactive AI systems, and computer vision. My broader interests also include **image classification**, **object detection**, and multimodal intelligent systems.
 
 My long-term goal is to build powerful, efficient, and interactive AI systems that combine strong research insight with real-world usability.
 
