@@ -82,7 +82,7 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
 
   <div class="pub-content">
     <p><strong>JLT: Clean-Latent Prediction in Latent Diffusion Transformers</strong></p>
-    <p><strong>Tenghui Wang*</strong>, <strong>Funing Fu*</strong>, Guanyu Zhou, Junyong Cen, Qichao Zhu</p>
+    <p><strong>Funing Fu*</strong>, <strong>Tenghui Wang*</strong>, Guanyu Zhou, Junyong Cen, Qichao Zhu</p>
     <p><em>* equal contribution</em></p>
 
     <div class="pub-buttons">
