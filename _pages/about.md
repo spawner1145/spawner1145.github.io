@@ -161,6 +161,7 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
       <p><strong>Chenkin Noob Community</strong></p>
       <p>Active developer of the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team.</p>
       <p>Led the training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>, which gained solid visibility in the community.</p>
+      <p>Developed several image generation samplers for <a href="https://github.com/spawner1145/sd-samplers.git">SDXL</a>, achieving strong practical results and receiving positive feedback from the community.</p>
     </div>
   </div>
 
