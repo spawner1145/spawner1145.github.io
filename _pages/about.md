@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a sophomore undergraduate student in the **Department of Mathematics at Wuhan University of Technology**. My research interests lie in **Generative AI**, **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training/inference systems. I enjoy turning frontier research ideas into practical open-source systems and community-facing tools.
+I’m a sophomore undergraduate student in the **Department of Mathematics at Wuhan University of Technology**. My research interests include **Generative AI**, **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training and inference systems. I am particularly interested in translating cutting-edge research ideas into practical open-source systems and community-facing tools.
 
-I have developed both academic and engineering experience in generative modeling, interactive AI systems, and computer vision. My interests also extend to **classification**, **object detection**, and multimodal intelligent systems. I am particularly familiar with the **PyTorch** and **Hugging Face Transformers** ecosystem.
+I have built both research and engineering experience across generative modeling, interactive AI systems, and computer vision. My broader interests also include **image classification**, **object detection**, and multimodal intelligent systems. I am highly familiar with the **PyTorch** ecosystem and the **Hugging Face Transformers** stack.
 
 My long-term goal is to build powerful, efficient, and interactive AI systems that combine strong research insight with real-world usability.
 
@@ -147,8 +147,8 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     </div>
     <div class="exp-content">
       <p><strong>Neta Lumina Team</strong></p>
-      <p>Core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>. Participated in large-scale generative model training and model development for high-quality artistic generation.</p>
-      <p>Implemented the <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> solution for Lumina2, contributing efficient inference acceleration for diffusion transformers.</p>
+      <p>Core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>, contributing to large-scale generative model training and model development for high-quality artistic image generation.</p>
+      <p>Implemented the <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> solution for Lumina2, enabling more efficient inference for diffusion transformers.</p>
       <p>Contributed support for <a href="https://github.com/KohakuBlueleaf/LyCORIS">LyCORIS</a> training in Lumina, improving its extensibility for parameter-efficient fine-tuning.</p>
     </div>
   </div>
@@ -159,9 +159,9 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     </div>
     <div class="exp-content">
       <p><strong>Chenkin Noob Community</strong></p>
-      <p>Active developer of the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team.</p>
-      <p>Led the training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>, which gained solid visibility in the community.</p>
-      <p>Developed several image generation samplers for <a href="https://github.com/spawner1145/sd-samplers.git">SDXL</a>, achieving strong practical results and receiving positive feedback from the community.</p>
+      <p>Active developer in the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team, contributing to open-source generative AI projects and community tooling.</p>
+      <p>Led the training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>, which gained solid community visibility.</p>
+      <p>Developed and open-sourced several image generation samplers for <a href="https://github.com/spawner1145/sd-samplers.git">SDXL</a>, with strong empirical performance and positive reception from the community.</p>
     </div>
   </div>
 
@@ -171,8 +171,8 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     </div>
     <div class="exp-content">
       <p><strong>LLM Agents & Interactive Systems</strong></p>
-      <p>Core developer with substantial experience in LLM agents, interaction design, and tool-using AI systems.</p>
-      <p>Contributed to <a href="https://github.com/AOrbitron/Eridanus">Eridanus</a> and <a href="https://github.com/avilliai/Manyana.git">Manyana</a> as a core developer, with hands-on work in agent workflows, interaction logic, and system building.</p>
+      <p>Core developer with substantial experience in LLM agents, interaction design, and tool-augmented AI systems.</p>
+      <p>Contributed to <a href="https://github.com/AOrbitron/Eridanus">Eridanus</a> and <a href="https://github.com/avilliai/Manyana.git">Manyana</a> as a core developer, with hands-on work in agent workflows, interaction logic, and system architecture.</p>
     </div>
   </div>
 
@@ -192,7 +192,7 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
 # 🛠 Skills
 
 * **Frameworks & Ecosystem:** PyTorch, Hugging Face Transformers, Diffusers, Accelerate
-* **Generative AI:** Diffusion Models, Latent Diffusion, Diffusion Transformers, efficient inference and training
-* **LLM Systems:** LLM agents, interaction systems, tool calling, workflow design
+* **Generative AI:** Diffusion Models, Latent Diffusion, Diffusion Transformers, efficient training and inference
+* **LLM Systems:** LLM agents, interactive systems, tool calling, workflow design
 * **Computer Vision:** Image classification, object detection, style clustering
 * **Engineering:** Open-source development, training pipelines, inference optimization
