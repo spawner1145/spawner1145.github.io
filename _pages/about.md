@@ -159,9 +159,9 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     <div class="exp-content">
       <p><strong>Neta Lumina Team</strong></p>
       <ul>
-        <li>Served as a core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>, contributing to large-scale generative model training and model development for high-quality artistic image generation.</li>
-        <li>Implemented the <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> solution for Lumina2, enabling more efficient inference for diffusion transformers.</li>
-        <li>Contributed support for <a href="https://github.com/KohakuBlueleaf/LyCORIS">LyCORIS</a> training in Lumina, improving its extensibility for parameter-efficient fine-tuning.</li>
+        <li>Core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>.</li>
+        <li>Implemented <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> for Lumina2.</li>
+        <li>Added <a href="httpsgithub.com/KohakuBlueleaf/LyCORIS">LyCORIS</a> training support for Lumina.</li>
       </ul>
     </div>
   </div>
@@ -173,9 +173,9 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     <div class="exp-content">
       <p><strong>Chenkin Noob Community</strong></p>
       <ul>
-        <li>Served as an active developer in the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team, contributing to open-source generative AI projects and community tooling.</li>
-        <li>Led the training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>, which gained solid community visibility.</li>
-        <li>Developed and open-sourced several image generation samplers for <a href="https://github.com/spawner1145/sd-samplers.git">SDXL</a>, with strong empirical performance and positive reception from the community.</li>
+        <li>Active developer in the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team.</li>
+        <li>Led training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>.</li>
+        <li>Developed and open-sourced image generation samplers for <a href="https://github.com/spawner1145/sd-samplers.git">SDXL</a>.</li>
       </ul>
     </div>
   </div>
@@ -187,8 +187,8 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     <div class="exp-content">
       <p><strong>LLM Agents & Interactive Systems</strong></p>
       <ul>
-        <li>Built substantial hands-on experience in LLM agents, interaction design, and tool-augmented AI systems.</li>
-        <li>Contributed to <a href="https://github.com/AOrbitron/Eridanus">Eridanus</a> and <a href="https://github.com/avilliai/Manyana.git">Manyana</a> as a core developer, with hands-on work in agent workflows, interaction logic, and system architecture.</li>
+        <li>Core developer in LLM agents and interactive AI systems.</li>
+        <li>Contributed to <a href="https://github.com/AOrbitron/Eridanus">Eridanus</a> and <a href="https://github.com/avilliai/Manyana.git">Manyana</a>.</li>
       </ul>
     </div>
   </div>
@@ -200,7 +200,7 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
     <div class="exp-content">
       <p><strong>Computer Vision Development</strong></p>
       <ul>
-        <li>Experienced in practical development involving image classification, object detection, and related model training workflows.</li>
+        <li>Experience in image classification, object detection, and model training workflows.</li>
       </ul>
     </div>
   </div>
