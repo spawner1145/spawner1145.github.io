@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an undergraduate student enrolled in **2024** and currently a **sophomore**, with a strong passion for **Generative AI** and sustained interest in cutting-edge research directions. My work mainly focuses on **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training/inference systems. I enjoy turning frontier research ideas into practical open-source systems and community-facing tools.
+I’m a sophomore undergraduate student in the **Department of Mathematics at Wuhan University of Technology**. My research interests lie in **Generative AI**, **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training/inference systems. I enjoy turning frontier research ideas into practical open-source systems and community-facing tools.
 
 I have developed both academic and engineering experience in generative modeling, interactive AI systems, and computer vision. My interests also extend to **classification**, **object detection**, and multimodal intelligent systems. I am particularly familiar with the **PyTorch** and **Hugging Face Transformers** ecosystem.
 
