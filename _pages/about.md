@@ -149,6 +149,7 @@ My long-term goal is to build powerful, efficient, and interactive AI systems th
       <p><strong>Neta Lumina Team</strong></p>
       <p>Core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>. Participated in large-scale generative model training and model development for high-quality artistic generation.</p>
       <p>Implemented the <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> solution for Lumina2, contributing efficient inference acceleration for diffusion transformers.</p>
+      <p>Contributed support for <a href="https://github.com/KohakuBlueleaf/LyCORIS">LyCORIS</a> training in Lumina, improving its extensibility for parameter-efficient fine-tuning.</p>
     </div>
   </div>
 
