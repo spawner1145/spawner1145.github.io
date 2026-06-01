@@ -7,67 +7,69 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduatestudent (enrolled in 2024, currently a **sophomore**) deeply passionate about **Generative AI** and atthe forefront of deep learning research. My focus primarily lies in Latent Diffusion Models, Diffusion Transformers (DiTs), LargeLanguage Model (LLM) Agents, and efficient inference techniques. 
+I’m an undergraduate student enrolled in **2024** and currently a **sophomore**, with a strong passion for **Generative AI** and sustained interest in cutting-edge research directions. My work mainly focuses on **diffusion models**, **Diffusion Transformers (DiTs)**, **LLM agents**, and efficient training/inference systems. I enjoy turning frontier research ideas into practical open-source systems and community-facing tools.
 
-Driven by strong academic curiosity and engineeringcapability, I actively bridge the gap between cutting-edge research and open-source community deployment. I have an extensive trackrecord in training large-scale generative networks, building robust interactive frameworks, and developing high-performance inference acceleration systems. Myultimate goal is to build advanced, accelerated, and highly interactive multimodal intelligent systems.
+I have developed both academic and engineering experience in generative modeling, interactive AI systems, and computer vision. My interests also extend to **classification**, **object detection**, and multimodal intelligent systems. I am particularly familiar with the **PyTorch** and **Hugging Face Transformers** ecosystem.
+
+My long-term goal is to build powerful, efficient, and interactive AI systems that combine strong research insight with real-world usability.
 
 <br>
-# 📚Research & Publications
+# 📚 Research & Publications
 
 <style>
-.publications{
-  margin-top:30px;
+.publications {
+  margin-top: 30px;
 }
 
-.pub-item{
-  display:flex;
-  align-items:center;
-  gap:28px;
-  margin-bottom:32px;
+.pub-item {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-bottom: 32px;
 }
 
-.pub-figure{
-  width:190px;
-  height:130px;
-border-radius:14px;
-  overflow:hidden;
-  background:#fff;
-  box-shadow:0 4px 14px rgba(0,0,0,0.08);
-  flex-shrink:0;
+.pub-figure {
+  width: 190px;
+  height: 130px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  flex-shrink: 0;
 }
 
-.pub-figure img{
-  width:100%;
-height:100%;
-  object-fit:contain;
+.pub-figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
-.pub-contentp{
-  margin:4px 0;
-  font-size:16px;
+.pub-content p {
+  margin: 4px 0;
+  font-size: 16px;
 }
 
-.pub-content strong{
-  font-size:17px;
+.pub-content strong {
+  font-size: 17px;
 }
 
-.pub-buttons{
-  margin-top:6px;
+.pub-buttons {
+  margin-top: 6px;
 }
 
-.pub-buttons a{
-text-decoration:none;
+.pub-buttons a {
+  text-decoration: none;
 }
 
-.pub-buttons button{
-  background:#4CAF50;
-  border:none;
-  color:white;
-  padding:6px 14px;
-  font-size:14px;
-  border-radius:6px;
-  cursor:pointer;
-  margin-right:6px;
+.pub-buttons button {
+  background: #4CAF50;
+  border: none;
+  color: white;
+  padding: 6px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 6px;
 }
 </style>
 
@@ -75,20 +77,20 @@ text-decoration:none;
 
 <div class="pub-item">
   <div class="pub-figure">
-    <img src="/images/jlt_training_curves.png" alt="JLT Curves">
+    <img src="/images/jlt_training_curves.png" alt="JLT Training Curves">
   </div>
 
   <div class="pub-content">
     <p><strong>JLT: Clean-Latent Prediction in Latent Diffusion Transformers</strong></p>
-    <p><strong>Funing Fu*</strong>, <strong>Tenghui Wang*</strong>, Guanyu Zhou, Junyong Cen, Qichao Zhu</p>
-    <p style="font-size: 14px; color: #666; font-style: italic;">(* Indicates Equal Contribution / Co-First Authorship)</p>
+    <p><strong>Tenghui Wang</strong>, Funing Fu, Guanyu Zhou, Junyong Cen, Qichao Zhu</p>
+    <p>First Author</p>
 
     <div class="pub-buttons">
-      <a href="[https://arxiv.org/abs/2605.27102](https://arxiv.org/abs/2605.27102)"><button>PDF</button></a>
-<a href="[https://github.com/akatsuki-neo/JLT](https://github.com/akatsuki-neo/JLT)"><button>Code</button></a>
-      <a href="[https://akatsuki-neo.github.io/JLT](https://akatsuki-neo.github.io/JLT)"><button>Page</button></a>
-      <a href="[https://huggingface.co/dawn-neo/JLT](https://huggingface.co/dawn-neo/JLT)"><button>HF</button></a>
-      <a href="https://wwww.zhihu.com/question/1972662017648264174/answer/2044334746961019013](https://www.zhihu.com/question/1972662017648264174/answer/2044334746961019013)"><button>Blog</button></a>
+      <a href="https://arxiv.org/abs/2605.27102"><button>PDF</button></a>
+      <a href="https://github.com/akatsuki-neo/JLT"><button>Code</button></a>
+      <a href="https://akatsuki-neo.github.io/JLT"><button>Page</button></a>
+      <a href="https://huggingface.co/dawn-neo/JLT"><button>HF</button></a>
+      <a href="https://www.zhihu.com/question/1972662017648264174/answer/2044334746961019013"><button>Blog</button></a>
     </div>
   </div>
 </div>
@@ -96,67 +98,44 @@ text-decoration:none;
 </div>
 
 <br>
-# 🚀 Open Source & Engineering Experience
+# 📇 Open Source & Engineering Experience
 
 <style>
 .experience {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .exp-item {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 24px;
-margin-bottom: 32px;
+  margin-bottom: 28px;
 }
 
 .logo-box {
   width: 120px;
   height: 120px;
   background: #fff;
-  border-radius:16px;
+  border-radius: 16px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 14pxrgba(0,0,0,0.06);
-  flex-shrink: 0;
-border: 1px solid #eee;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
 }
 
 .logo-box span {
-  font-weight:bold;
+  font-size: 24px;
+  font-weight: 700;
   color: #4CAF50;
-  font-size: 22px;
-  text-align: center;
-}
-
-.exp-content {
-  flex-grow: 1;
-}
-
-.exp-content h3 {
-  margin: 0 0 6px 0;
-  font-size: 19px;
-  color: #333;
 }
 
 .exp-content p {
   margin: 4px 0;
-  font-size:15px;
-  line-height: 1.5;
-  color: #555;
+  font-size: 16px;
 }
 
-.exp-content ul {
-  margin: 6px 0 00;
-  padding-left: 20px;
-  font-size: 14.5px;
-  color: #444;
-}
-
-.exp-content ul li {
-margin-bottom: 6px;
+.exp-content strong {
+  font-size: 17px;
 }
 </style>
 
@@ -164,15 +143,12 @@ margin-bottom: 6px;
 
   <div class="exp-item">
     <div class="logo-box">
-      <span>Neta</span>
+      <span>NL</span>
     </div>
     <div class="exp-content">
-      <h3><strong>NetaArt & Lumina Team</strong> | Core Trainer & Developer</h3>
-      <p>Contributed actively to large-scale generative modeltraining infrastructures and high-performance inference acceleration pipelines.</p>
-      <ul>
-        <li><strong>Neta-Lumina:</strong> Acted as a core trainer and developer for the <a href="[https://huggingface.co/neta-art/Neta-Lumina](https://huggingface.co/neta-art/Neta-Lumina)">Neta-Lumina</a> project, orchestrating scalable pre-training and fine-tuning blocks for state-of-the-art artistic generation.</li>
-        <li><strong>TeaCache Integration:</strong> Independently authored and integrated the <a href="[https://github.com/ali-vilab/TeaCache](https://github.com/ali-vilab/TeaCache)">TeaCache</a> acceleration implementation for <strong>Lumina2</strong>, drastically boosting inference speed by caching redundant timestep latents without compromisingperceptual quality.</li>
-      </ul>
+      <p><strong>Neta Lumina Team</strong></p>
+      <p>Core trainer and developer of <a href="https://huggingface.co/neta-art/Neta-Lumina">Neta-Lumina</a>. Participated in large-scale generative model training and model development for high-quality artistic generation.</p>
+      <p>Implemented the <a href="https://github.com/ali-vilab/TeaCache">TeaCache</a> solution for Lumina2, contributing efficient inference acceleration for diffusion transformers.</p>
     </div>
   </div>
 
@@ -180,41 +156,41 @@ margin-bottom: 6px;
     <div class="logo-box">
       <span>CN</span>
     </div>
-    <divclass="exp-content">
-      <h3><strong>Chenkin Noob Community & CV Projects</strong> | Active Developer</h3>
-      <p>Pioneered high-impact community generative models and comprehensive perception pipelines with solid traction.</p>
-      <ul>
-        <li><strong>ChenkinNoob Collective:</strong> Active developer within the <a href="[https://huggingface.co/ChenkinNoob](https://huggingface.co/ChenkinNoob)">ChenkinNoob</a> open-source group, creating and maintaining high-quality generative checkpoints and community tools.</li>
-        <li><strong>Artist StyleClustering & Custom Nodes:</strong> Spearheaded the training of a specialized artist-style clustering model. Developed and open-sourced <a href="[https://github.com/spawner1145/comfyui-lsnet.git](https://github.com/spawner1145/comfyui-lsnet.git)">comfyui-lsnet</a>, a highly popular ComfyUI custom node that gained widespread recognition within the AI art community. Also well-versed in developing downstream CV applications like image classification and object detection.</li>
-      </ul>
+    <div class="exp-content">
+      <p><strong>Chenkin Noob Community</strong></p>
+      <p>Active developer of the <a href="https://huggingface.co/ChenkinNoob">Chenkin Noob</a> community team.</p>
+      <p>Led the training of an artist-style clustering model and developed <a href="https://github.com/spawner1145/comfyui-lsnet.git">comfyui-lsnet</a>, which gained solid visibility in the community.</p>
     </div>
-</div>
+  </div>
 
   <div class="exp-item">
     <div class="logo-box">
-      <span>Agent</span>
+      <span>AG</span>
     </div>
     <div class="exp-content">
-      <h3><strong>LLM Agents & Interactive Ecosystems</strong> | Core Architect</h3>
-      <p>Architected full-stack interactiveagent frameworks, multi-agent coordination systems, and natural language communication backends.</p>
-      <ul>
-        <li><strong>Eridanus & Manyana:</strong> Served as a core developer and engineer for <a href="[https://github.com/AOrbitron/Eridanus](https://github.com/AOrbitron/Eridanus)">Eridanus</a> and <a href="[https://github.com/avilliai/Manyana.git](https://github.com/avilliai/Manyana.git)">Manyana</a>, building sophisticated multi-agent orchestration layers, conversational memory, andadvanced tool-calling capabilities.</li>
-      </ul>
+      <p><strong>LLM Agents & Interactive Systems</strong></p>
+      <p>Core developer with substantial experience in LLM agents, interaction design, and tool-using AI systems.</p>
+      <p>Contributed to <a href="https://github.com/AOrbitron/Eridanus">Eridanus</a> and <a href="https://github.com/avilliai/Manyana.git">Manyana</a> as a core developer, with hands-on work in agent workflows, interaction logic, and system building.</p>
+    </div>
+  </div>
+
+  <div class="exp-item">
+    <div class="logo-box">
+      <span>CV</span>
+    </div>
+    <div class="exp-content">
+      <p><strong>Computer Vision Development</strong></p>
+      <p>Experienced in practical development involving image classification, object detection, and related model training workflows.</p>
     </div>
   </div>
 
 </div>
 
 <br>
-# 🛠️ Technical Skills
+# 🛠 Skills
 
-* **Deep Learning Ecosystem:**PyTorch, Hugging Face (`transformers`, `diffusers`, `accelerate`), DeepSpeed.
-* **GenerativeArchitectures:** Latent Diffusion Models (LDM), Diffusion Transformers (DiT), Flow Matching, Attention Mechanisms, VAEs.
-* **Computer Vision & Perception:** Style Clustering, Image Classification, Object Detection (YOLO, DETR architectures),Feature Extraction.
-* **LLM & Agent Systems:** Multi-Agent Coordination, Tool-Calling/Function-Callingpipelines, Retrieval-Augmented Generation (RAG), High-Performance Inference Optimization (TeaCache, Quantization).
-
-<div style="margin-top: 100px;"></div>
-
-<div style="display:none;">
-    <script type="text/javascript" id="mapmyvisitors" src="//mappmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a](https://mapmyvisitors.com/map.js?d=8MhgTWHJEZzdE82Bb-wBII3RuujWQtydOxS12ZLFdM8&cl=ffffff&w=a)"></script>
-</div>
+* **Frameworks & Ecosystem:** PyTorch, Hugging Face Transformers, Diffusers, Accelerate
+* **Generative AI:** Diffusion Models, Latent Diffusion, Diffusion Transformers, efficient inference and training
+* **LLM Systems:** LLM agents, interaction systems, tool calling, workflow design
+* **Computer Vision:** Image classification, object detection, style clustering
+* **Engineering:** Open-source development, training pipelines, inference optimization
